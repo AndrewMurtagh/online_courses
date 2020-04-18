@@ -7,7 +7,7 @@ Key idea of asymptotic notation is to measure runtime in a way that ignores cons
 So we look at how the runtime scales in proportion to the input size. So long as the input size is large enough, this is mostly what determines the actual runtime.
 
 
-Ordering: log(n) < sqrt(n) < n < nlog(n) < n<sup>2</sup> < 2<sup>n</sup> < n!
+Ordering: `log(n) < sqrt(n) < n < nlog(n) < n<sup>2</sup> < 2<sup>n</sup> < n!`
 
 
 ![Large input sizes](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/330px-Comparison_computational_complexity.svg.png)
